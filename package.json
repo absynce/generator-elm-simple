@@ -1,0 +1,26 @@
+{
+  "name": "generator-elm-simple",
+  "version": "0.0.1",
+  "description": "Simple Elm project generator.",
+  "files": [
+    "generators"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "elm",
+    "yeoman",
+    "elm-project-generator",
+    "simple-project",
+    "simple"
+  ],
+  "author": "Jared M. Smith <absynce@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "generator-npm-init": "^1.4.0",
+    "yeoman-generator": "^2.0.4"
+  }
+}
